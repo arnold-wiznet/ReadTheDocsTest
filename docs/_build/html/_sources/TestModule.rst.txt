@@ -4,10 +4,10 @@ TestModule package
 Submodules
 ----------
 
-TestModule.Hello module
------------------------
+TestModule.SomeTest module
+--------------------------
 
-.. automodule:: TestModule.Hello
+.. automodule:: TestModule.SomeTest
    :members:
    :undoc-members:
    :show-inheritance:
