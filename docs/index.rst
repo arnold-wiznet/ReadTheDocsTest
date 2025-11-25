@@ -6,8 +6,8 @@
 Welcome to Test's documentation!
 ================================
 
-This is my first time using Sphinx with ReadTheDocs. 
-I hope this Works!
+|This is my first time using Sphinx with ReadTheDocs. 
+|I hope this Works!
 
 
 .. toctree::
