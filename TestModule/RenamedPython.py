@@ -15,8 +15,8 @@ def TestAdd(a :int, b:int):
     :param b: Description
     :type b: int
     
-    :returns c: Added Value
-    :type c: int
+    :returns: Added Value
+    :rtype: int
     """
     c = a + b
     return c
@@ -31,8 +31,8 @@ def TestSubtract(a:int, b:int):
     :param b: Description
     :type b: int
 
-    :returns c: Subtracted Value
-    :type c: int
+    :returns: Subtracted Value
+    :rtype: int
     """
     c = a - b
     return c
