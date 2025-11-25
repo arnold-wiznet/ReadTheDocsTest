@@ -7,7 +7,7 @@ Submodules
 TestModule.SomeTest module
 --------------------------
 
-.. automodule:: TestModule.SomeTest
+.. automodule:: TestModule.Hi
    :members:
    :undoc-members:
    :show-inheritance:
