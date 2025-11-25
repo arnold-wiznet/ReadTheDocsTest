@@ -4,10 +4,10 @@ TestModule package
 Submodules
 ----------
 
-TestModule.SomeTest module
+TestModule.Hi module
 --------------------------
 
-.. automodule:: TestModule.Hi
+.. automodule:: TestModule.WT
    :members:
    :undoc-members:
    :show-inheritance:
