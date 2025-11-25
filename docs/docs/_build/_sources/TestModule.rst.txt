@@ -12,10 +12,10 @@ TestModule.RenamedPython module
    :undoc-members:
    :show-inheritance:
 
-Module contents
----------------
+.. Module contents
+.. ---------------
 
-.. automodule:: TestModule
-   :members:
-   :undoc-members:
-   :show-inheritance:
+.. .. automodule:: TestModule
+..    :members:
+..    :undoc-members:
+..    :show-inheritance:
