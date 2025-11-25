@@ -4,10 +4,10 @@ TestModule package
 Submodules
 ----------
 
-TestModule.SomeTest module
---------------------------
+TestModule.RenamedPython module
+-------------------------------
 
-.. automodule:: TestModule.SomeTest
+.. automodule:: TestModule.RenamedPython
    :members:
    :undoc-members:
    :show-inheritance:

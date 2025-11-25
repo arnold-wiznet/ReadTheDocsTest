@@ -21,6 +21,7 @@ author = 'Arnold'
 extensions = [
     "sphinx.ext.autodoc",
     "sphinx.ext.doctest",
+    "sphinx.ext.viewcode",
     "sphinx.ext.intersphinx",
     "sphinx.ext.todo",
     "sphinx.ext.coverage",
