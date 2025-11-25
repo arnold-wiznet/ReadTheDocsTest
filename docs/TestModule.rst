@@ -7,7 +7,7 @@ Submodules
 TestModule.Hi module
 --------------------------
 
-.. automodule:: TestModule.WT
+.. automodule:: TestModule.RenamedPython
    :members:
    :undoc-members:
    :show-inheritance:
