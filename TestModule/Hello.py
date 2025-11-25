@@ -17,3 +17,15 @@ def TestAdd(a :int, b:int):
     
     """
     return a+b
+
+
+def TestSubtract(a:int, b:int):
+    """
+    Docstring for TestSubtract
+    
+    :param a: Description
+    :type a: int
+    :param b: Description
+    :type b: int
+    """
+    return a-b
