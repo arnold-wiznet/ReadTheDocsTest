@@ -41,5 +41,5 @@ def TestSubtract(a:int, b:int):
 def GenerateSomeTextFromString(input :  str):
 	"""
 	Something something
-	""'
+	"""
 	return "{} with some format".format(str)
