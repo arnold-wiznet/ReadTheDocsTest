@@ -36,3 +36,10 @@ def TestSubtract(a:int, b:int):
     """
     c = a - b
     return c
+
+
+def GenerateSomeTextFromString(input :  str):
+	"""
+	Something something
+	""'
+	return "{} with some format".format(str)
