@@ -43,3 +43,14 @@ def GenerateSomeTextFromString(input :  str):
 	Something something
 	"""
 	return "{} with some format".format(str)
+
+
+def PythonIsInteresting(input : str):
+    """
+
+    Python has many functions
+
+    This functions returns True if string size larger than 10.
+    """
+    value = True if len(input) > 10 else False
+    return value
