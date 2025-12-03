@@ -54,3 +54,19 @@ def PythonIsInteresting(input : str):
     """
     value = True if len(input) > 10 else False
     return value
+
+
+def PrintListFromi(i: int):
+    """
+
+    Python has many functions
+
+    This functions returns prints from 0 to i.
+
+    :param i: Description
+    :type i: int
+
+    :returns: list all int
+    :rtype: list[int]
+    """
+    return [ j for j in range(i) ]
