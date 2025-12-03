@@ -1,1 +1,7 @@
+# ignore build
+_build/
+
+# ignore virt
 venv
+
+
