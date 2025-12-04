@@ -33,4 +33,6 @@ test 234asdfasdfasd
 I am update
 if closed
 
+
+IM trying new function in bash
 1 2 Test
