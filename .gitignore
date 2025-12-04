@@ -4,4 +4,6 @@ _build/
 # ignore virt
 venv
 
+# ignroe Pycache
+__pycache__/
 
