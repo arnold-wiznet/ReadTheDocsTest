@@ -35,4 +35,5 @@ if closed
 
 
 IM trying new function in bash
+2
 1 2 Test
