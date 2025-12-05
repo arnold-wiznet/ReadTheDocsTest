@@ -37,4 +37,7 @@ if closed
 IM trying new function in bash
 2
 RST is hard
+
+
+This is typed on my laptop
 1 2 Test
