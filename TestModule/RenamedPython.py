@@ -70,3 +70,16 @@ def PrintListFromi(i: int):
     :rtype: list[int]
     """
     return [ j for j in range(i) ]
+
+
+def NothingIsReal(i: int):
+    """
+
+    Python random stuff
+    :param i: asuodjfaskdfasfa
+
+    :returns: i squared
+    :rtype: int
+    """
+
+    return i*i
